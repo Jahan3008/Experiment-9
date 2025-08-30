@@ -166,7 +166,7 @@ RUP widely involves IBM Rational tools.
 In this article we discussed how complex a Banking application could be and what are the 
 typical phases involved in testing the application. Apart from that we also discussed current 
 trends followed by IT industries including software development methodologies and tools. 
-Test cases for opening bank account 
+Test cases for opening bank account
 
 1. Input parameters checking - Name -Date of Birth - Photo -Address Proof -Identity proof -Introducers (if applicable) - PAN card -Initial deposit -Whether checkbook / ATM card / Online banking facilities are needed or not -Customer signature 
 
